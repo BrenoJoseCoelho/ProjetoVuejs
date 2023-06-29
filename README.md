@@ -41,7 +41,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Breno José Coelho</b></sub></a> <a href="https://github.com/BrenoJoseCoelho" title="GitHub">🚀</a>
 
 
-Feito  por Thiago Marinho 👋🏽 Entre em contato!
+Feito  por Breno Coelho 👋🏽 Entre em contato!
 
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-jose-coelho/)](https://www.linkedin.com/in/breno-jose-coelho/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:breno.jose.coelho@gmail.com)](mailto:breno.jose.coelho@gmail.com)
