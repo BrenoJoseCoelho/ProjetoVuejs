@@ -38,13 +38,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autor
 ---
 
-<a href="https://github.com/BrenoJoseCoelho/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
- <br />
  <sub><b>Breno José Coelho</b></sub></a> <a href="https://github.com/BrenoJoseCoelho" title="GitHub">🚀</a>
 
 
 Feito  por Thiago Marinho 👋🏽 Entre em contato!
 
  [![Linkedin Badge](https://img.shields.io/badge/-Breno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-jose-coelho/)](https://www.linkedin.com/in/breno-jose-coelho/) 
-[![Gmail Badge](https://img.shields.io/badge/-breno.jose.coelho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:breno.jose.coelho@gmail.com)](mailto:breno.jose.coelho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:breno.jose.coelho@gmail.com)](mailto:breno.jose.coelho@gmail.com)
