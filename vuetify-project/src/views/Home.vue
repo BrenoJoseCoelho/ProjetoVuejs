@@ -2,8 +2,8 @@
   <v-app>
     <v-navigation-drawer v-model="drawer" app>
       <v-list>
-    <v-list-item ><button @click="changeComponent(1)"> Pagina 1</button></v-list-item>
-    <v-list-item ><button @click="changeComponent(2)"> Pagina 2</button></v-list-item>
+    <v-list-item class="text-h5"><button @click="changeComponent(1)"> Pagina 1</button></v-list-item>
+    <v-list-item class="text-h5"><button @click="changeComponent(2)"> Pagina 2</button></v-list-item>
 
 
       </v-list>
@@ -11,7 +11,7 @@
 
     <v-app-bar app>
       <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
-         <v-toolbar-title>Meu App</v-toolbar-title>
+         <v-toolbar-title class="text-h4">Meu App</v-toolbar-title>
     </v-app-bar>
 
     <v-main>

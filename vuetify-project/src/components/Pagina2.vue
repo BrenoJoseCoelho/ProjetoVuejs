@@ -11,16 +11,16 @@
       <v-col cols="6">
         <v-card class="card2">
           <v-card-text>
-            <p>Coluna 1 - Pagina 2</p>
-            <p>{{ texto1 }}</p>
+            <p class="text-h5">Coluna 1 - Pagina 2</p>
+            <p class="text-subtitle-1">{{ texto1 }}</p>
           </v-card-text>
         </v-card>
       </v-col>
       <v-col cols="6">
         <v-card class="card2">
           <v-card-text>
-            <p>Coluna 2 - Pagina 2</p>
-            <p>{{texto2 }}</p>
+            <p class="text-h5">Coluna 2 - Pagina 2</p>
+            <p class="text-subtitle-1">{{texto2 }}</p>
           </v-card-text>
         </v-card>
       </v-col>
